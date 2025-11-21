@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 """
 Script that takes two arguments, markdown_file_name, output_file_name
